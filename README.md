@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working woth Blockchain
+- 🔭 I’m currently working with Blockchain
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: edllyn@icloud.com
 - 😄 Pronouns: She/Her
